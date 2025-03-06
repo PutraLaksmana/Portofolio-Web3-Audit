@@ -1,7 +1,7 @@
 # My portofolio audit
 
 ## Competitive Audit
-|Date  | Protocol   | Platform    |Langguage   | Position | Result    |
+|Date  | Protocol   | Platform    |Language    | Position | Result    |
 |------|------------|-------------|------------|----------|-----------|
 |Jan 2025|[Initia](https://code4rena.com/audits/2025-01-initia-move)                        |Code4rena |Initia-MOVE   |#4         |1H         |
 |Dec 2024|[Oku](https://audits.sherlock.xyz/contests/641/leaderboard)                       |Sherlock  |EVM-SOLIDITY  |#32        |1H 1M      |
