@@ -1,6 +1,11 @@
 # My portofolio audit
-
-## Competitive Audit
+## Profiles on Competitive Audit Platforms
+- [cantina](https://cantina.xyz/u/laksmana)
+- [codehawks](https://profiles.cyfrin.io/u/laksmana)
+- [sherlock](https://audits.sherlock.xyz/watson/Laksmana)
+- [code4rena](https://code4rena.com/@laksmana)
+  
+## Competitive Audit Experience
 |Date  | Protocol   | Platform    |Language    | Position | Result    |
 |------|------------|-------------|------------|----------|-----------|
 |Jan 2025|[Initia](https://code4rena.com/audits/2025-01-initia-move)                        |Code4rena |Initia-MOVE   |#4         |1H         |
