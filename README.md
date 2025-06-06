@@ -7,6 +7,7 @@
 
 ## Bug Bountie
 |Date  | Protocol   | Platform    |Language    | Paid | Report    |
+|------|------------|-------------|------------|----------|-----------|
 |      |            |             |            |      |           |  
 
 ## Attackathon (Live Mainnet Audit)
