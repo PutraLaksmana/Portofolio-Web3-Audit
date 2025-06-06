@@ -4,7 +4,16 @@
 - [codehawks](https://profiles.cyfrin.io/u/laksmana)
 - [sherlock](https://audits.sherlock.xyz/watson/Laksmana)
 - [code4rena](https://code4rena.com/@laksmana)
-  
+
+## Bug Bountie
+|Date  | Protocol   | Platform    |Language    | Paid | Report    |
+|      |            |             |            |      |           |  
+
+## Attackathon (Live Mainnet Audit)
+
+|Date  | Protocol   | Platform    |Language    | Position | Result    |
+|------|------------|-------------|------------|----------|-----------|
+|Apr 2025|[Movement](https://immunefi.com/audit-competition/movement-labs-attackathon/information/?utm_source=explore_results)| Immunefi|Movement-MOVE|Pending|1 M|
 ## Competitive Audit Experience
 |Date  | Protocol   | Platform    |Language    | Position | Result    |
 |------|------------|-------------|------------|----------|-----------|
