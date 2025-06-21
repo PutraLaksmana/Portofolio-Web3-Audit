@@ -14,7 +14,7 @@
 
 |Date  | Protocol   | Platform    |Language    | Position | Result    |
 |------|------------|-------------|------------|----------|-----------|
-|Apr 2025|[Movement](https://immunefi.com/audit-competition/movement-labs-attackathon/information/?utm_source=explore_results)| Immunefi|Movement-MOVE|Pending|1 M|
+|Apr 2025|[Movement](https://immunefi.com/audit-competition/movement-labs-attackathon/information/?utm_source=explore_results)| Immunefi|Movement-MOVE|#26|[1 M](https://reports.immunefi.com/movement-labs-attackathon/42480-bc-medium-unable-to-deposit-the-gas-fee-into-the-governed_gas_pool-when-using-deposit_from_fun)|
 ## Competitive Audit Experience
 |Date  | Protocol   | Platform    |Language    | Position | Result    |
 |------|------------|-------------|------------|----------|-----------|
