@@ -5,10 +5,10 @@
 - [sherlock](https://audits.sherlock.xyz/watson/Laksmana)
 - [code4rena](https://code4rena.com/@laksmana)
 
-## Bug Bountie
-|Date  | Protocol   | Platform    |Language    | Paid | Report    |
-|------|------------|-------------|------------|----------|-----------|
-|      |            |             |            |      |           |  
+## Bug Bounty
+| Date        | Protocol | Platform | Language     | Status                    | Report      |
+| ----------- | -------- | -------- | ------------ | ------------------------- | ----------- |
+| May 7, 2025 | PancakeSwap  | Immunefi | Move (Aptos) | Not Paid (No Fix, No Pay) | Coming Soon |
 
 ## Attackathon (Live Mainnet Audit)
 
