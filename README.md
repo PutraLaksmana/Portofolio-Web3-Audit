@@ -18,7 +18,7 @@
 ## Competitive Audit Experience
 |Date  | Protocol   | Platform    |Language    | Position (Top 10 Only) | Report    |
 |------|------------|-------------|------------|----------|-----------|
-|Apr 2025| [ZetaChain](https://www.zetachain.com) | [Sherlock](https://audits.sherlock.xyz/contests/857?filter=questions) | Go,Rust,Move| [#9](https://audits.sherlock.xyz/contests/857/leaderboard) | 4 M(1 Solo)|
+|Apr 2025| [ZetaChain](https://www.zetachain.com) | [Sherlock](https://audits.sherlock.xyz/contests/857?filter=questions) | Go,Rust,Move| [#9](https://audits.sherlock.xyz/contests/857/leaderboard) | 4 M (1 Solo)|
 |Jan 2025|[Initia](https://initia.xyz)                        |Code4rena |Initia-MOVE   |[#4](https://code4rena.com/audits/2025-01-initia-move)         |[1 H](https://code4rena.com/reports/2025-01-initia-move#h-03-user-can-bypass-max_expiration-when-extend-expiration)         |
 |Dec 2024|[Oku](https://audits.sherlock.xyz/contests/641/leaderboard)                       |Sherlock  |EVM-SOLIDITY  |        |1H 1M      |
 |Dec 2024|[Autonomint](https://audits.sherlock.xyz/contests/569/leaderboard)                |Sherlock  |EVM-SOLIDITY  |        |3H         |
